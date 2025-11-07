@@ -155,3 +155,18 @@ Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">M
 <a href="#top">Back to top</a>
 
 *Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
